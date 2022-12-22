@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
-<a href="www.linkedin.com/in/abhishek-shetty-6692891a7"><b>LinkedIn</b></a>
+<a href="https://www.linkedin.com/in/abhishek-shetty-6692891a7/"><b>LinkedIn</b></a>
 
 <!---
 AbhiShetty1756/AbhiShetty1756 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
